@@ -1,6 +1,6 @@
 # Tasks List
 
-## Just an app usin Context API
+## Just an app using Context API
 
 - React
 - ContextAPI
